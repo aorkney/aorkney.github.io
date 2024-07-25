@@ -98,6 +98,7 @@ html {
 }
 body {
   max-width:30vw;
+  min-width:300px;
   margin:25px auto;
 }
 header, #content, footer { 
