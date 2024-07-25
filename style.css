@@ -97,8 +97,8 @@ html {
   background-size:cover;
 }
 body {
-  width:300px;
-  min-width:300px;
+  width:30%;
+  min-width:350px;
   margin:25px auto;
 }
 header, #content, footer { 
