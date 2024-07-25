@@ -97,7 +97,7 @@ html {
   background-size:cover;
 }
 body {
-  width:100%;
+  width:1000px;
   min-width:350px;
   margin:25px auto;
 }
